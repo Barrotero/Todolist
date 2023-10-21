@@ -1,3 +1,3 @@
-# go-postgre-database-app
+# Lista de Afazeres(To-do List)
 
-Um programa básico: Uma lista de afazeres feita utilizando Golang, HTML, CSS, Javascript e PostgreSQL.
+Um programa básico: Uma lista de afazeres feita utilizando Golang, HTML, CSS, Javascript e MYSQL.
